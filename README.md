@@ -1,4 +1,4 @@
-# Angular1-Controllers
+# Angular1-part2-ngModel
 
 In [Part 1](https://github.com/WalkthroughJS/Angular1-part1-GettingStarted), we built a running app with an `index.html` and `app.js` with our app declaration and a controller with a scope variable that connected the controller to the view.
 
